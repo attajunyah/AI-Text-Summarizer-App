@@ -6,5 +6,6 @@ This is a Project-Based learning tutorial from Postman.
 - The user can submit their text with a "summarize" button and receive an AI-powered summary in an output textarea.
 
 ## Structure of the App
-The app will have a client side (website), server side, and external API integration to `Hugging Face`.
+The app will have a client side (website), server side, and external API integration to `Hugging Face`. Hugging Face allows you to try out many models for free with the [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index). I used this API to access Facebook’s [bart-large-cnn](https://huggingface.co/facebook/bart-large-cnn) model, a Large Language Model (LLM) specially trained for text summarization.
+
 ![image info](./structure.png)
