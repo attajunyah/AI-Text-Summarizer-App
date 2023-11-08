@@ -2,7 +2,7 @@
 This is a Project-Based learning tutorial from Postman. 
 
 ## Preview
-<img src="./preview-ai.png" width="500" height="500" />
+<img src="./preview-ai.png" width="1000" height="500" />
 <br />
 ## Functionalities
 - The user is prompted to insert text that they wish to summarize.
