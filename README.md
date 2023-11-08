@@ -1,6 +1,9 @@
 # AI-Powered Text Summarizer App
 This is a Project-Based learning tutorial from Postman. 
 
+## Preview
+<img src="./preview-ai.png" width="500" height="500" />
+<br />
 ## Functionalities
 - The user is prompted to insert text that they wish to summarize.
 - The user can submit their text with a "summarize" button and receive an AI-powered summary in an output textarea.
